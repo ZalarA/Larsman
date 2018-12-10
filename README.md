@@ -1,4 +1,3 @@
-# Larsman
 # About us
 # Our dogs
 # Puppies
